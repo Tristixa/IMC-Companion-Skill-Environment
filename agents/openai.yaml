@@ -1,0 +1,4 @@
+interface:
+  display_name: "IMC Environment Art Direction"
+  short_description: "IMC hunting backgrounds, playable rooms and maps"
+  default_prompt: "Use $imc-environment-art-direction to create the requested IMC environment with its approved rendering style, location purpose and gameplay staging."
