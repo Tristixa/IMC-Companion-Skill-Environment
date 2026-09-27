@@ -4,6 +4,8 @@ This folder contains `$imc-environment-art-direction` for hunting/battle backgro
 
 The character companion remains in `D:/Godot Projects/IMC-Companion-Skill` under `$imc-art-direction`, covering portraits, sprites, character animation and monsters.
 
+For HD-2D towns, `references/hd2d-buildings.md` holds the approved painted-facade workflow for 3D building volumes (Eurydica, 2026-09-27). `scripts/` holds its spec generator (`facade_spec.mjs`) and its processing and check scripts.
+
 ## Install for Codex
 
 Place this folder at `%USERPROFILE%/.codex/skills/imc-environment-art-direction`, or create a directory junction there pointing to this folder. Keep `SKILL.md`, `agents/`, `references/` and `references/media/` together. Each companion contains its own required references.
