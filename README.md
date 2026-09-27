@@ -1,6 +1,6 @@
 # IMC Environment Companion Skill
 
-This folder contains `$imc-environment-art-direction` for hunting/battle backgrounds, playable environments such as the Adventurer Office, scenery and maps. It retains IMC's PawPop 2 rendering direction and environment integration guidance.
+This folder contains `$imc-environment-art-direction` for hunting/battle backgrounds, playable environments such as the Adventurer Office, scenery and maps. It offers 3D-anime-rendered 2D JRPG, Unicorn Overlord and PawPop 2 rendering options, with separate playable-camera references, lived-in fantasy design and environment integration guidance.
 
 The character companion remains in `D:/Godot Projects/IMC-Companion-Skill` under `$imc-art-direction`, covering portraits, sprites, character animation and monsters.
 
